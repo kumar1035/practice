@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kumar1035/practice/tree/master/0130-surrounded-regions) |
 | [0743-network-delay-time](https://github.com/kumar1035/practice/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/kumar1035/practice/tree/master/1020-number-of-enclaves) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kumar1035/practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kumar1035/practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kumar1035/practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kumar1035/practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
