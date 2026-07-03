@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumar1035/practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kumar1035/practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kumar1035/practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/kumar1035/practice/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kumar1035/practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kumar1035/practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Breadth-First Search
@@ -50,21 +51,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kumar1035/practice/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/kumar1035/practice/tree/master/0802-find-eventual-safe-states) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kumar1035/practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/kumar1035/practice/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kumar1035/practice/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/kumar1035/practice/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kumar1035/practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/kumar1035/practice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kumar1035/practice/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kumar1035/practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/kumar1035/practice/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/kumar1035/practice/tree/master/1631-path-with-minimum-effort) |
+| [3620-network-recovery-pathways](https://github.com/kumar1035/practice/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
@@ -117,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/kumar1035/practice/tree/master/0802-find-eventual-safe-states) |
+| [3620-network-recovery-pathways](https://github.com/kumar1035/practice/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kumar1035/practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/kumar1035/practice/tree/master/0198-house-robber) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/kumar1035/practice/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3620-network-recovery-pathways](https://github.com/kumar1035/practice/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
 | ------- |
