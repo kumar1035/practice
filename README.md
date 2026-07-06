@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kumar1035/practice/tree/master/0198-house-robber) |
 | [1020-number-of-enclaves](https://github.com/kumar1035/practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kumar1035/practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1288-remove-covered-intervals](https://github.com/kumar1035/practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kumar1035/practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/kumar1035/practice/tree/master/1631-path-with-minimum-effort) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/kumar1035/practice/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/kumar1035/practice/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/kumar1035/practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kumar1035/practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/kumar1035/practice/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
