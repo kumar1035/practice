@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
+| [1143-longest-common-subsequence](https://github.com/kumar1035/practice/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kumar1035/practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumar1035/practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Topological Sort
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/kumar1035/practice/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kumar1035/practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kumar1035/practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/kumar1035/practice/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/kumar1035/practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/kumar1035/practice/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kumar1035/practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
