@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kumar1035/practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/kumar1035/practice/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/kumar1035/practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kumar1035/practice/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/kumar1035/practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kumar1035/practice/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/kumar1035/practice/tree/master/0198-house-robber) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kumar1035/practice/tree/master/0044-wildcard-matching) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kumar1035/practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kumar1035/practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Indexed Tree
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kumar1035/practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/kumar1035/practice/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
