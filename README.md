@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumar1035/practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kumar1035/practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kumar1035/practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kumar1035/practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kumar1035/practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kumar1035/practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kumar1035/practice/tree/master/3620-network-recovery-pathways) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kumar1035/practice/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/kumar1035/practice/tree/master/0368-largest-divisible-subset) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kumar1035/practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/kumar1035/practice/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/kumar1035/practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/kumar1035/practice/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kumar1035/practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kumar1035/practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kumar1035/practice/tree/master/3620-network-recovery-pathways) |
 ## Memoization
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kumar1035/practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kumar1035/practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
