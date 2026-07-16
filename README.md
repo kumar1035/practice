@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/kumar1035/practice/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/kumar1035/practice/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/kumar1035/practice/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/kumar1035/practice/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/kumar1035/practice/tree/master/1045-customers-who-bought-all-products) |
 | [1075-project-employees-i](https://github.com/kumar1035/practice/tree/master/1075-project-employees-i) |
 | [1164-product-price-at-a-given-date](https://github.com/kumar1035/practice/tree/master/1164-product-price-at-a-given-date) |
