@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/kumar1035/practice/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kumar1035/practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kumar1035/practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0931-minimum-falling-path-sum](https://github.com/kumar1035/practice/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/kumar1035/practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kumar1035/practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/kumar1035/practice/tree/master/1288-remove-covered-intervals) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kumar1035/practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kumar1035/practice/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/kumar1035/practice/tree/master/0130-surrounded-regions) |
+| [0931-minimum-falling-path-sum](https://github.com/kumar1035/practice/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/kumar1035/practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kumar1035/practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/kumar1035/practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/kumar1035/practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/kumar1035/practice/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kumar1035/practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0931-minimum-falling-path-sum](https://github.com/kumar1035/practice/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/kumar1035/practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kumar1035/practice/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/kumar1035/practice/tree/master/1301-number-of-paths-with-max-score) |
