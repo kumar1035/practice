@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/kumar1035/practice/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/kumar1035/practice/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/kumar1035/practice/tree/master/1251-average-selling-price) |
+| [1321-restaurant-growth](https://github.com/kumar1035/practice/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/kumar1035/practice/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kumar1035/practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/kumar1035/practice/tree/master/1633-percentage-of-users-attended-a-contest) |
