@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/kumar1035/practice/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/kumar1035/practice/tree/master/0185-department-top-three-salaries) |
 | [0550-game-play-analysis-iv](https://github.com/kumar1035/practice/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/kumar1035/practice/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/kumar1035/practice/tree/master/0585-investments-in-2016) |
