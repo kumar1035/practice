@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/kumar1035/practice/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/kumar1035/practice/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kumar1035/practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1527-patients-with-a-condition](https://github.com/kumar1035/practice/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/kumar1035/practice/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/kumar1035/practice/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/kumar1035/practice/tree/master/1667-fix-names-in-a-table) |
