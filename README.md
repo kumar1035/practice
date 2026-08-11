@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kumar1035/practice/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/kumar1035/practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/kumar1035/practice/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/kumar1035/practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/kumar1035/practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/kumar1035/practice/tree/master/0647-palindromic-substrings) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/kumar1035/practice/tree/master/0044-wildcard-matching) |
 | [0316-remove-duplicate-letters](https://github.com/kumar1035/practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/kumar1035/practice/tree/master/0402-remove-k-digits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kumar1035/practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar1035/practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kumar1035/practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumar1035/practice/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/kumar1035/practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/kumar1035/practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumar1035/practice/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar1035/practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumar1035/practice/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/kumar1035/practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/kumar1035/practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumar1035/practice/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar1035/practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
