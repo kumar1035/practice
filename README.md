@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/kumar1035/practice/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/kumar1035/practice/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/kumar1035/practice/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kumar1035/practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kumar1035/practice/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kumar1035/practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/kumar1035/practice/tree/master/1695-maximum-erasure-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumar1035/practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -398,11 +400,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kumar1035/practice/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar1035/practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kumar1035/practice/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar1035/practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
