@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kumar1035/practice/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/kumar1035/practice/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/kumar1035/practice/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumar1035/practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kumar1035/practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kumar1035/practice/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
+| [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kumar1035/practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/kumar1035/practice/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kumar1035/practice/tree/master/0646-maximum-length-of-pair-chain) |
