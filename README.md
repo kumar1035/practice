@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kumar1035/practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kumar1035/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kumar1035/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/kumar1035/practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/kumar1035/practice/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kumar1035/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/kumar1035/practice/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kumar1035/practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/kumar1035/practice/tree/master/1695-maximum-erasure-value) |
