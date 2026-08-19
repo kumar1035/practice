@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/kumar1035/practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kumar1035/practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kumar1035/practice/tree/master/1301-number-of-paths-with-max-score) |
+| [1386-cinema-seat-allocation](https://github.com/kumar1035/practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kumar1035/practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar1035/practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumar1035/practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kumar1035/practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/kumar1035/practice/tree/master/1386-cinema-seat-allocation) |
 | [1695-maximum-erasure-value](https://github.com/kumar1035/practice/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumar1035/practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumar1035/practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/kumar1035/practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/kumar1035/practice/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar1035/practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/kumar1035/practice/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/kumar1035/practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kumar1035/practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumar1035/practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/kumar1035/practice/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kumar1035/practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kumar1035/practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kumar1035/practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
