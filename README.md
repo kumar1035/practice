@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumar1035/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/kumar1035/practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/kumar1035/practice/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/kumar1035/practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/kumar1035/practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/kumar1035/practice/tree/master/0402-remove-k-digits) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kumar1035/practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kumar1035/practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kumar1035/practice/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/kumar1035/practice/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/kumar1035/practice/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/kumar1035/practice/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/kumar1035/practice/tree/master/0368-largest-divisible-subset) |
