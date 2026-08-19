@@ -528,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumar1035/practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/kumar1035/practice/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
