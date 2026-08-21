@@ -567,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/kumar1035/practice/tree/master/0778-swim-in-rising-water) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/kumar1035/practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
