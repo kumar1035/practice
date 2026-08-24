@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kumar1035/practice/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/kumar1035/practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/kumar1035/practice/tree/master/0877-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/kumar1035/practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/kumar1035/practice/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/kumar1035/practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kumar1035/practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/kumar1035/practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kumar1035/practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/kumar1035/practice/tree/master/1386-cinema-seat-allocation) |
 | [1695-maximum-erasure-value](https://github.com/kumar1035/practice/tree/master/1695-maximum-erasure-value) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/kumar1035/practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/kumar1035/practice/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumar1035/practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kumar1035/practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumar1035/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/kumar1035/practice/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/kumar1035/practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kumar1035/practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/kumar1035/practice/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumar1035/practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
