@@ -4,10 +4,10 @@ public:
 
         int n = nums.size();
 
-        // first store the number with indeces then sort
-        vector<pair<int, int>> arr;
+        //first store the number with indeces then sort 
+        vector<pair<int,int>> arr;
 
-        for (int i = 0; i < n; i++) {
+        for(int i = 0; i < n; i++) {
             arr.push_back({nums[i], i});
         }
 
@@ -17,15 +17,15 @@ public:
         int left = 0;
         int right = n - 1;
 
-        while (left < right) {
+        while(left < right) {
 
             int sum = arr[left].first + arr[right].first;
 
-            if (sum == target) {
+            if(sum == target) {
                 return {arr[left].second, arr[right].second};
             }
 
-            else if (sum < target) {
+            else if(sum < target) {
                 left++;
             }
 
