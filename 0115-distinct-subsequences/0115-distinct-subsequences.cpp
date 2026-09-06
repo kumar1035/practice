@@ -8,11 +8,10 @@ public:
 
     int solve(int i, int j, string &s, string &t) {
 
-        // Successfully formed t
+     
         if (j == n)
             return 1;
 
-        // s is exhausted but t is not
         if (i == m)
             return 0;
 
@@ -22,18 +21,13 @@ public:
 
         if (s[i] == t[j]) {
 
-            // Two possibilities
-
-            // Take current character
             int take = solve(i + 1, j + 1, s, t);
-
-            // Skip current character
             int skip = solve(i + 1, j, s, t);
 
             return dp[i][j] = take + skip;
         }
 
-        // Characters don't match, only option is to skip
+        
         return dp[i][j]=solve(i + 1, j, s, t);
     }
 
