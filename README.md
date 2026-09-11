@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kumar1035/practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumar1035/practice/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/kumar1035/practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kumar1035/practice/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/kumar1035/practice/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kumar1035/practice/tree/master/0646-maximum-length-of-pair-chain) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/kumar1035/practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kumar1035/practice/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/kumar1035/practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kumar1035/practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/kumar1035/practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kumar1035/practice/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/kumar1035/practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/kumar1035/practice/tree/master/1140-stone-game-ii) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kumar1035/practice/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/kumar1035/practice/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/kumar1035/practice/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/kumar1035/practice/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/kumar1035/practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kumar1035/practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kumar1035/practice/tree/master/1406-stone-game-iii) |
@@ -673,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/kumar1035/practice/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
