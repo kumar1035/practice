@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kumar1035/practice/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/kumar1035/practice/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/kumar1035/practice/tree/master/0130-surrounded-regions) |
+| [0189-rotate-array](https://github.com/kumar1035/practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kumar1035/practice/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumar1035/practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/kumar1035/practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kumar1035/practice/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/kumar1035/practice/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/kumar1035/practice/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/kumar1035/practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kumar1035/practice/tree/master/0877-stone-game) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kumar1035/practice/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/kumar1035/practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kumar1035/practice/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/kumar1035/practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kumar1035/practice/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kumar1035/practice/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/kumar1035/practice/tree/master/0876-middle-of-the-linked-list) |
