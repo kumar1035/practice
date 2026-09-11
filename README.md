@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kumar1035/practice/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/kumar1035/practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/kumar1035/practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kumar1035/practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kumar1035/practice/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kumar1035/practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumar1035/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kumar1035/practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumar1035/practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kumar1035/practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kumar1035/practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [2029-stone-game-ix](https://github.com/kumar1035/practice/tree/master/2029-stone-game-ix) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kumar1035/practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kumar1035/practice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/kumar1035/practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/kumar1035/practice/tree/master/0368-largest-divisible-subset) |
@@ -659,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kumar1035/practice/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
