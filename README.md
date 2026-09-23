@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kumar1035/practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/kumar1035/practice/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/kumar1035/practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumar1035/practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kumar1035/practice/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/kumar1035/practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kumar1035/practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kumar1035/practice/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/kumar1035/practice/tree/master/0368-largest-divisible-subset) |
@@ -733,4 +735,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kumar1035/practice/tree/master/0139-word-break) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kumar1035/practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
