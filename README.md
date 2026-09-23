@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumar1035/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kumar1035/practice/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/kumar1035/practice/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/kumar1035/practice/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/kumar1035/practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kumar1035/practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kumar1035/practice/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/kumar1035/practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kumar1035/practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kumar1035/practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kumar1035/practice/tree/master/0189-rotate-array) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kumar1035/practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kumar1035/practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/kumar1035/practice/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/kumar1035/practice/tree/master/1386-cinema-seat-allocation) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kumar1035/practice/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/kumar1035/practice/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumar1035/practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar1035/practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
