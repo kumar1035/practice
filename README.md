@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kumar1035/practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kumar1035/practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kumar1035/practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kumar1035/practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kumar1035/practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumar1035/practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/kumar1035/practice/tree/master/0130-surrounded-regions) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kumar1035/practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kumar1035/practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kumar1035/practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kumar1035/practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kumar1035/practice/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumar1035/practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0778-swim-in-rising-water](https://github.com/kumar1035/practice/tree/master/0778-swim-in-rising-water) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kumar1035/practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kumar1035/practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kumar1035/practice/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/kumar1035/practice/tree/master/0130-surrounded-regions) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kumar1035/practice/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/kumar1035/practice/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/kumar1035/practice/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/kumar1035/practice/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/kumar1035/practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/kumar1035/practice/tree/master/0139-word-break) |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kumar1035/practice/tree/master/0079-word-search) |
 | [1096-brace-expansion-ii](https://github.com/kumar1035/practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumar1035/practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bucket Sort
