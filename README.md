@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kumar1035/practice/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kumar1035/practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kumar1035/practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/kumar1035/practice/tree/master/0724-find-pivot-index) |
 | [0778-swim-in-rising-water](https://github.com/kumar1035/practice/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/kumar1035/practice/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/kumar1035/practice/tree/master/0860-lemonade-change) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kumar1035/practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kumar1035/practice/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/kumar1035/practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/kumar1035/practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/kumar1035/practice/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kumar1035/practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
