@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kumar1035/practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/kumar1035/practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kumar1035/practice/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/kumar1035/practice/tree/master/0207-course-schedule) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kumar1035/practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kumar1035/practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kumar1035/practice/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kumar1035/practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kumar1035/practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kumar1035/practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kumar1035/practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kumar1035/practice/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kumar1035/practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kumar1035/practice/tree/master/0230-kth-smallest-element-in-a-bst) |
