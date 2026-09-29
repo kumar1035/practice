@@ -10,27 +10,28 @@
  * };
  */
 class Solution {
-    public:
-    int solve(TreeNode *root, int *result){
-        //base condtion
-        if (root == NULL){
-            return 0;
-        }
-        // hypothesis
-        int l = solve(root->left,result);
-        int r = solve(root->right,result);
+public:
+    int solve(TreeNode* root, int& result) {
 
-        //here is the induction part 
-        int temp = max(l,r)+1;
-        
-        *result = max(*result, l+r);
+        if (root == NULL)
+            return 0;
+
+        int l = solve(root->left, result);
+        int r = solve(root->right, result);
+
+        int temp = max(l, r) + 1;
+
+        result = max(result, l + r);
+
         return temp;
     }
-public:
+
     int diameterOfBinaryTree(TreeNode* root) {
-        int result =0;
-        solve(root, &result);
+
+        int result = 0;
+
+        solve(root, result);
+
         return result;
-        
     }
 };
