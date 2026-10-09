@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kumar1035/practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumar1035/practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kumar1035/practice/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumar1035/practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/kumar1035/practice/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/kumar1035/practice/tree/master/0300-longest-increasing-subsequence) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kumar1035/practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kumar1035/practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kumar1035/practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kumar1035/practice/tree/master/0523-continuous-subarray-sum) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kumar1035/practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kumar1035/practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [2029-stone-game-ix](https://github.com/kumar1035/practice/tree/master/2029-stone-game-ix) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumar1035/practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kumar1035/practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/kumar1035/practice/tree/master/0368-largest-divisible-subset) |
 | [0502-ipo](https://github.com/kumar1035/practice/tree/master/0502-ipo) |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kumar1035/practice/tree/master/0229-majority-element-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
