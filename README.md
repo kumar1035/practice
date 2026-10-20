@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/kumar1035/practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/kumar1035/practice/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kumar1035/practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/kumar1035/practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kumar1035/practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kumar1035/practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/kumar1035/practice/tree/master/1140-stone-game-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kumar1035/practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kumar1035/practice/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/kumar1035/practice/tree/master/0802-find-eventual-safe-states) |
+| [0994-rotting-oranges](https://github.com/kumar1035/practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kumar1035/practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kumar1035/practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/kumar1035/practice/tree/master/1096-brace-expansion-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kumar1035/practice/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/kumar1035/practice/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/kumar1035/practice/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/kumar1035/practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kumar1035/practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kumar1035/practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/kumar1035/practice/tree/master/1260-shift-2d-grid) |
