@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kumar1035/practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kumar1035/practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kumar1035/practice/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kumar1035/practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/kumar1035/practice/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/kumar1035/practice/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kumar1035/practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kumar1035/practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kumar1035/practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumar1035/practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kumar1035/practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/kumar1035/practice/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kumar1035/practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kumar1035/practice/tree/master/0213-house-robber-ii) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kumar1035/practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kumar1035/practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kumar1035/practice/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kumar1035/practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/kumar1035/practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kumar1035/practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kumar1035/practice/tree/master/0543-diameter-of-binary-tree) |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kumar1035/practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kumar1035/practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kumar1035/practice/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kumar1035/practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/kumar1035/practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kumar1035/practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kumar1035/practice/tree/master/0543-diameter-of-binary-tree) |
@@ -737,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kumar1035/practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kumar1035/practice/tree/master/0543-diameter-of-binary-tree) |
 ## Ordered Set
 |  |
