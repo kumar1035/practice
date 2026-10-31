@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/kumar1035/practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/kumar1035/practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/kumar1035/practice/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/kumar1035/practice/tree/master/0686-repeated-string-match) |
 | [0824-goat-latin](https://github.com/kumar1035/practice/tree/master/0824-goat-latin) |
 | [0940-distinct-subsequences-ii](https://github.com/kumar1035/practice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/kumar1035/practice/tree/master/1021-remove-outermost-parentheses) |
@@ -839,4 +840,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/kumar1035/practice/tree/master/1192-critical-connections-in-a-network) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/kumar1035/practice/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/kumar1035/practice/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/kumar1035/practice/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/kumar1035/practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
