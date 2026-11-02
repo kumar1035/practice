@@ -1,35 +1,49 @@
+// use to calculate the height = min(left_max_i,right_max_i) - height[i];
+// use two array for the left max array and right max array 
+// and traverse from i = 0 to 5  take the min 
+
 class Solution {
 public:
-    int trap(vector<int>& height) {
 
-        int n = height.size();
+    vector<int> getLeftMaxArray(vector<int>& height, int& n) {
+        vector<int> leftMax(n);
 
-        stack<int> st;
-        int ans = 0;
+        leftMax[0] = height[0];
 
-        for(int i = 0; i < n; i++){
-
-            while(!st.empty() && height[i] > height[st.top()]){
-
-                int bottom = st.top();
-                st.pop();
-
-                if(st.empty()){
-                    break;
-                }
-
-                int left = st.top();
-
-                int width = i - left - 1;
-
-                int h = min(height[left], height[i]) - height[bottom];
-
-                ans += width * h;
-            }
-
-            st.push(i);
+        for (int i = 1; i < n; i++) {
+            leftMax[i] = max(leftMax[i - 1], height[i]);
         }
 
-        return ans;
+        return leftMax;
+    }
+
+    vector<int> getRightMaxArray(vector<int>& height, int& n) {
+        vector<int> rightMax(n);
+
+        rightMax[n - 1] = height[n - 1];
+
+        for (int i = n - 2; i >= 0; i--) {
+            rightMax[i] = max(rightMax[i + 1], height[i]);
+        }
+
+        return rightMax;
+    }
+
+    int trap(vector<int>& height) {
+        int n = height.size();
+
+        if (n == 0) return 0;
+
+        vector<int> leftMax = getLeftMaxArray(height, n);
+        vector<int> rightMax = getRightMaxArray(height, n);
+
+        int sum = 0;
+
+        for (int i = 0; i < n; i++) {
+            int h = min(leftMax[i], rightMax[i]) - height[i];
+            sum += h;
+        }
+
+        return sum;
     }
 };
