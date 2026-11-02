@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumar1035/practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kumar1035/practice/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/kumar1035/practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumar1035/practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumar1035/practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kumar1035/practice/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kumar1035/practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kumar1035/practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kumar1035/practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kumar1035/practice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/kumar1035/practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/kumar1035/practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kumar1035/practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumar1035/practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kumar1035/practice/tree/master/0217-contains-duplicate) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kumar1035/practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/kumar1035/practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kumar1035/practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/kumar1035/practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kumar1035/practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/kumar1035/practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kumar1035/practice/tree/master/0283-move-zeroes) |
@@ -782,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kumar1035/practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/kumar1035/practice/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/kumar1035/practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kumar1035/practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kumar1035/practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kumar1035/practice/tree/master/0876-middle-of-the-linked-list) |
