@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kumar1035/practice/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/kumar1035/practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/kumar1035/practice/tree/master/0931-minimum-falling-path-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/kumar1035/practice/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kumar1035/practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/kumar1035/practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kumar1035/practice/tree/master/1020-number-of-enclaves) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kumar1035/practice/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/kumar1035/practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kumar1035/practice/tree/master/0778-swim-in-rising-water) |
+| [0973-k-closest-points-to-origin](https://github.com/kumar1035/practice/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar1035/practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/kumar1035/practice/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kumar1035/practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kumar1035/practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumar1035/practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/kumar1035/practice/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kumar1035/practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kumar1035/practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kumar1035/practice/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/kumar1035/practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kumar1035/practice/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/kumar1035/practice/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/kumar1035/practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kumar1035/practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kumar1035/practice/tree/master/1510-stone-game-iv) |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/kumar1035/practice/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kumar1035/practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/kumar1035/practice/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/kumar1035/practice/tree/master/0973-k-closest-points-to-origin) |
 | [1096-brace-expansion-ii](https://github.com/kumar1035/practice/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/kumar1035/practice/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar1035/practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -729,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumar1035/practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kumar1035/practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/kumar1035/practice/tree/master/0973-k-closest-points-to-origin) |
 ## Nim Game
 |  |
 | ------- |
@@ -820,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kumar1035/practice/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/kumar1035/practice/tree/master/0973-k-closest-points-to-origin) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -881,4 +888,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kumar1035/practice/tree/master/0146-lru-cache) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kumar1035/practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
